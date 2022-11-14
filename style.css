@@ -1,0 +1,17 @@
+div{
+    text-align: center;
+}
+button{
+    height: 2.5em;
+    width: 5.5em;
+    cursor: pointer;
+}
+.iniciar{
+    background-color: rgb(79, 255, 79);
+}
+.pausar{
+    background-color: yellow;
+}
+.resetar{
+    background-color: rgb(255, 0, 0);
+}
